@@ -15,3 +15,7 @@ Funcionalidades del servicio interno: envió de correos a usuarios y generación
 Interpreté: Daniel Montero Lucena / d.monterol@alumnos.urjc.es
 
 Cuenta Github: dmonterol
+
+Diagrama de clases UML:
+
+https://www.dropbox.com/s/0x9jwlmz4t0udct/Diagrama_Clases.pdf?dl=0
