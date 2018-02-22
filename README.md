@@ -18,4 +18,9 @@ Cuenta Github: dmonterol
 
 Diagrama de clases UML:
 
-https://www.dropbox.com/s/0x9jwlmz4t0udct/Diagrama_Clases.pdf?dl=0
+https://www.dropbox.com/s/5hydxg8ucbciuyq/Diagrama_Clases.pdf?dl=0
+
+Modelo entidad relación:
+
+https://www.dropbox.com/s/zxij80gp4jj23gv/Modelo%20entidad-relaci%C3%B3n_TiendaOnline.pdf?dl=0
+
