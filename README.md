@@ -1,26 +1,27 @@
 # TiendaSistemasDistribuidos2018
 
-Temática: web de venta de productos de cosmética natural.
+Temática: Tienda online de productos informáticos.
 
-Nombre de la web: BellezaNatural
+Nombre de la web: TodoParaTuOrdenador
 
-Funcionalidad pública: visión y precios de los productos, y añadir y quitar productos de la cesta.
+Funcionalidad pública: visualización de productos, modificación de la cesta, rellenar formulario de ingreso y validar pedido.
 
-Funcionalidad privada: Hacer pedidos.
+Funcionalidad privada: Crear, modificar y eliminar clientes. Modificar productos, modificar pedidos y modificar productos y categorías.
 
-Entidades principales: Producto, categoria de productos, pedido, usuario y oferta.
+Entidades principales: Administrador, cliente, compra, stock y método de pago.
 
 Funcionalidades del servicio interno: envió de correos a usuarios y generación de PDF de productos.
 
-Interpreté: Daniel Montero Lucena / d.monterol@alumnos.urjc.es
+Interpreté: Ricardp Valle Ramirez / r.valler@alumnos.urjc.es
+            Daniel Montero Lucena / d.monterol@alumnos.urjc.es
 
-Cuenta Github: dmonterol
+Cuenta Github: https://github.com/rivara/SSDD-tiendaOnline.git
 
 Diagrama de clases UML:
 
-https://www.dropbox.com/s/j77fphudkpbkx15/Diagrama_Clases.pdf?dl=0
+https://www.dropbox.com/s/o2o3kros1b1h8af/Diagrama_Clases.pdf?dl=0
 
 Modelo entidad relación:
 
-https://www.dropbox.com/s/zxij80gp4jj23gv/Modelo%20entidad-relaci%C3%B3n_TiendaOnline.pdf?dl=0
+https://www.dropbox.com/s/i0fy5hm40u0w841/Modelo%20entidad-relaci%C3%B3n%20Tienda.pdf?dl=0
 
