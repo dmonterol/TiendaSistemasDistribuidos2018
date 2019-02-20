@@ -1,12 +1,12 @@
-# TiendaSistemasDistribuidos2018
+# TiendaSistemasDistribuidos2019
 
 Temática: Tienda online de productos informáticos.
 
 Nombre de la web: TodoParaTuOrdenador
 
-Funcionalidad pública: visualización de productos, modificación de la cesta, rellenar formulario de ingreso y validar pedido.
+Funcionalidad pública (usuario y administrador): visualización de productos, cumplimentar el formulario de ingreso.
 
-Funcionalidad privada: Crear, modificar y eliminar clientes. Modificar productos, modificar pedidos y modificar productos y categorías.
+Funcionalidad privada: Usuario (validación de pedidos).
 
 Entidades principales: Administrador, cliente, compra, stock y método de pago.
 
